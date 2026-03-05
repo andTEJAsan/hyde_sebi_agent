@@ -1,0 +1,67 @@
+{
+  "evaluated_from": "output.json",
+  "original_pdf_source": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1772622793928.pdf",
+  "total_items": 3,
+  "evaluated_items": 3,
+  "verdict_summary": {
+    "true": 3,
+    "false": 0,
+    "uncertain": 0
+  },
+  "items": [
+    {
+      "reference": {
+        "name": "SEBI (Alternative Investment Funds) Regulations, 2012",
+        "date": null,
+        "type": "regulation"
+      },
+      "resolved_link": "https://www.sebi.gov.in/legal/regulations/jan-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-22-2026-_99375.html",
+      "claimed_pages": [],
+      "status": "evaluated",
+      "judge": {
+        "verdict": "true",
+        "confidence": 1.0,
+        "reason": "The referenced document, \"SEBI (Alternative Investment Funds) Regulations, 2012\", is explicitly mentioned in point 1 of the original circular: \"In terms of Regulation 28 of SEBI (Alternative Investment Funds) Regulations, 2012 (hereafter referred to as \u201cAIF Regulations\u201d)\"."
+      },
+      "reason": null,
+      "referenced_pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/1769681124067.pdf"
+    },
+    {
+      "reference": {
+        "name": "SEBI Master Circular for AIFs",
+        "date": "07-05-2024",
+        "type": "master-circular"
+      },
+      "resolved_link": "https://www.sebi.gov.in/legal/master-circulars/may-2024/master-circular-for-registrars-to-an-issue-and-share-transfer-agents_83226.html",
+      "claimed_pages": [
+        1,
+        2
+      ],
+      "status": "evaluated",
+      "judge": {
+        "verdict": "true",
+        "confidence": 1.0,
+        "reason": "The original circular explicitly mentions 'SEBI Master Circular for AIFs dated May 07, 2024' in points 1, 3, and 9 on page 1."
+      },
+      "reason": null,
+      "referenced_pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2024/1715081550397.pdf"
+    },
+    {
+      "reference": {
+        "name": "Securities and Exchange Board of India Act, 1992",
+        "date": null,
+        "type": "regulation"
+      },
+      "resolved_link": "https://www.sebi.gov.in/legal/regulations/jan-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-22-2026-_99375.html",
+      "claimed_pages": [],
+      "status": "evaluated",
+      "judge": {
+        "verdict": "true",
+        "confidence": 1.0,
+        "reason": "The referenced document 'Securities and Exchange Board of India Act, 1992' is explicitly mentioned in point 11 on page 2 of the original circular PDF."
+      },
+      "reason": null,
+      "referenced_pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/1769681124067.pdf"
+    }
+  ]
+}

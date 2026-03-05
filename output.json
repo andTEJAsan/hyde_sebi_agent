@@ -1,0 +1,69 @@
+{
+  "input_circular_page_url": "https://www.sebi.gov.in/legal/circulars/mar-2026/regulatory-reporting-by-aifs_100120.html",
+  "input_pdf_path": null,
+  "source_pdf_url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1772622793928.pdf",
+  "reference_count": 3,
+  "references": [
+    {
+      "name": "SEBI (Alternative Investment Funds) Regulations, 2012",
+      "date": null,
+      "type": "regulation"
+    },
+    {
+      "name": "SEBI Master Circular for AIFs",
+      "date": "07-05-2024",
+      "type": "master-circular"
+    },
+    {
+      "name": "Securities and Exchange Board of India Act, 1992",
+      "date": null,
+      "type": "regulation"
+    }
+  ],
+  "resolved_links": [
+    {
+      "reference": {
+        "name": "SEBI (Alternative Investment Funds) Regulations, 2012",
+        "date": null,
+        "type": "regulation"
+      },
+      "resolved_link": "https://www.sebi.gov.in/legal/regulations/jan-2026/securities-and-exchange-board-of-india-mutual-funds-regulations-2026_99119.html",
+      "search_result_count": 10,
+      "status": "resolved",
+      "pages": [],
+      "reason": null
+    },
+    {
+      "reference": {
+        "name": "SEBI Master Circular for AIFs",
+        "date": "07-05-2024",
+        "type": "master-circular"
+      },
+      "resolved_link": "https://www.sebi.gov.in/legal/master-circulars/may-2024/master-circular-for-alternative-investment-funds-aifs-_83229.html",
+      "search_result_count": 2,
+      "status": "resolved",
+      "pages": [
+        1,
+        2
+      ],
+      "reason": null
+    },
+    {
+      "reference": {
+        "name": "Securities and Exchange Board of India Act, 1992",
+        "date": null,
+        "type": "regulation"
+      },
+      "resolved_link": "https://www.sebi.gov.in/legal/regulations/jan-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-22-2026-_99375.html",
+      "search_result_count": 10,
+      "status": "resolved",
+      "pages": [],
+      "reason": null
+    }
+  ],
+  "links_only": [
+    "https://www.sebi.gov.in/legal/regulations/jan-2026/securities-and-exchange-board-of-india-mutual-funds-regulations-2026_99119.html",
+    "https://www.sebi.gov.in/legal/master-circulars/may-2024/master-circular-for-alternative-investment-funds-aifs-_83229.html",
+    "https://www.sebi.gov.in/legal/regulations/jan-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-22-2026-_99375.html"
+  ]
+}
